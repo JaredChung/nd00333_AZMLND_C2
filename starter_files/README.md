@@ -10,7 +10,7 @@ The main Components include:
 
 
 ## Architectural Diagram
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
+ ![diagram](screenshots/diagram.png)
 
 ## Key Steps
 
@@ -26,23 +26,35 @@ The main Components include:
 
 ![automlcomplete_f](screenshots/automlcomplete_f.png)
 
+List of all model experiments run
+
 ![topmodellist_f](screenshots/topmodellist_f.png)
+
+Top model from Automl Run
 
 ![topmodel_f](screenshots/topmodel_f.png)
 
 ### Step 3 - Deploy the Best Model
 
+Start Deployment of model
+
 ![deployment_f](screenshots/deployment_f.png)
+
+Model deployed
 
 ![deploymentdone_f](screenshots/deploymentdone_f.png)
 
 ### Step 4 - Enable Logging
+
+Run logs.py file which will allow application insights to be enabled
 
 ![pythonlog_f](screenshots/pythonlog_f.png)
 
 ![applicationinsights_f](screenshots/applicationinsights_f.png)
 
 ### Step 5 - Swagger Documentation
+
+Run serve.py and swagger.sh to provide API documentation
 
 ![swagger1_f](screenshots/swagger1_f.png)
 
@@ -52,13 +64,19 @@ The main Components include:
 
 ### Step 6 - Consume Model Endpoints
 
+Test the endpoint by running endpoint.py
+
 ![endpointrun_f](screenshots/endpointrun_f.png)
+
+Benchmark the API using Apache Benchmark
 
 ![benchmark1_f](screenshots/benchmark1_f.png)
 
 ![benchmark2_f](screenshots/benchmark2_f.png)
 
 ### Step 7 - Create and Publish a Pipeline
+
+Start Pipeline of end to AutoML, building of endpoint and show runDetail Widget in Jupyter notebook
 
 ![pipelinecreated](screenshots/pipelinecreated.png)
 

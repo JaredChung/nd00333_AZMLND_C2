@@ -90,5 +90,7 @@ Start Pipeline of end to AutoML, building of endpoint and show runDetail Widget 
 
 https://www.youtube.com/watch?v=AFL9PlokgjA
 
-## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+## Future Suggestions
+- Increase training of Automl to build additional models might drive better performance
+- Collect more data to improve the model accuracy as it gives additional examples
+- Data cleaning and feature engineering will be helpful in improving data quality and provide more information that the model may generalise better

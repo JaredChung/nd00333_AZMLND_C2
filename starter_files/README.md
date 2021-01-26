@@ -11,6 +11,8 @@
 
 ## Key Steps
 
+### Step 0 - Authentication
+
 ### Step 1 - Load Data
 
 ### Step 2 - Auto ML Experiment

@@ -1,9 +1,12 @@
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
+# Azure MLOPS - Deployment of AUTOML model and Automation Pipeline
 
+In this project I will testing using Azure to build a model on the Bank Marketing Dataset to predict Term Deposit uptake and then deploy this as an API within Azure.
 
-# Your Project Title Here
+The main Components include:
 
-*TODO:* Write an overview to your project.
+* AutoML for building model
+* Deployment API Endpoint (with benchhmarking)
+* Pipeline for automation
 
 
 ## Architectural Diagram

@@ -32,6 +32,7 @@ The main Components include:
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+https://www.youtube.com/watch?v=AFL9PlokgjA
 
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.

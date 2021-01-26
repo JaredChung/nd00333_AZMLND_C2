@@ -18,20 +18,58 @@ The main Components include:
 
 ### Step 1 - Load Data
 
+![registereddata_f](screenshots/registereddata_f.png)
+
+![data_load_f](screenshots/data_load_f.png)
+
 ### Step 2 - Auto ML Experiment
+
+![automlcomplete_f](screenshots/automlcomplete_f.png)
+
+![topmodellist_f](screenshots/topmodellist_f.png)
+
+![topmodel_f](screenshots/topmodel_f.png)
 
 ### Step 3 - Deploy the Best Model
 
+![deployment_f](screenshots/deployment_f.png)
+
+![deploymentdone_f](screenshots/deploymentdone_f.png)
+
 ### Step 4 - Enable Logging
+
+![pythonlog_f](screenshots/pythonlog_f.png)
+
+![applicationinsights_f](screenshots/applicationinsights_f.png)
 
 ### Step 5 - Swagger Documentation
 
+![swagger1_f](screenshots/swagger1_f.png)
+
+![swagger2_f](screenshots/swagger2_f.png)
+
+![swagger3_f](screenshots/swagger3_f.png)
+
 ### Step 6 - Consume Model Endpoints
+
+![endpointrun_f](screenshots/endpointrun_f.png)
+
+![benchmark1_f](screenshots/benchmark1_f.png)
+
+![benchmark2_f](screenshots/benchmark2_f.png)
 
 ### Step 7 - Create and Publish a Pipeline
 
+![pipelinecreated](screenshots/pipelinecreated.png)
+
+![pipelinecomplete_f](screenshots/pipelinecomplete_f.png)
+
+![pipelineactive_f](screenshots/pipelineactive_f.png)
+
+![jupyterrundetail_f](screenshots/jupyterrundetail_f.png)
+
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+
 https://www.youtube.com/watch?v=AFL9PlokgjA
 
 ## Standout Suggestions

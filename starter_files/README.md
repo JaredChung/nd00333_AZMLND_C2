@@ -82,6 +82,12 @@ Start Pipeline of end to AutoML, building of endpoint and show runDetail Widget 
 
 ![jupyterrundetail_f](screenshots/jupyterrundetail_f.png)
 
+![jupyter_runDetail_f](screenshots/jupyter_runDetail_f.png)
+
+![endpointcomplete_f](screenshots/endpointcomplete_f.png)
+
+![endpointcomplete2_f](screenshots/endpointcomplete2_f.png)
+
 ## Screen Recording
 
 https://www.youtube.com/watch?v=AFL9PlokgjA

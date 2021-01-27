@@ -18,35 +18,31 @@ The main Components include:
 
 ### Step 1 - Load Data
 
+The first step is to load the <b> Bank Marketing </b> as an Azure Dataset so it can be used later for modelling.
+
 ![registereddata_f](screenshots/registereddata_f.png)
 
 ![data_load_f](screenshots/data_load_f.png)
 
 ### Step 2 - Auto ML Experiment
 
+Now that we have the data as azure dataset format we can run an Automated ML job set to an hour so that we can find the best model. (Note: The objective is to predict whether a customer will uptake a term deposit product)
+
 ![automlcomplete_f](screenshots/automlcomplete_f.png)
 
-List of all model experiments run
+After the Automl is run it will list each model which was built during the training as you can see below in the list.![topmodellist_f](screenshots/topmodellist_f.png)
 
-![topmodellist_f](screenshots/topmodellist_f.png)
-
-Top model from Automl Run
-
-![topmodel_f](screenshots/topmodel_f.png)
+We can then select the top model which is the <b>VotingEnsemble</b> (a combination of the models)![topmodel_f](screenshots/topmodel_f.png)
 
 ### Step 3 - Deploy the Best Model
 
-Start Deployment of model
+The next stage of this project is to deploy this as an endpoint so it may be consumed by the user.![deployment_f](screenshots/deployment_f.png)
 
-![deployment_f](screenshots/deployment_f.png)
-
-Model deployed
-
-![deploymentdone_f](screenshots/deploymentdone_f.png)
+The Model is now deployed which is indicated by the "Healthy" status.![deploymentdone_f](screenshots/deploymentdone_f.png)
 
 ### Step 4 - Enable Logging
 
-Run logs.py file which will allow application insights to be enabled
+Now an important step is to enable <b>Application Insights</b> Run logs.py file which will allow application insights to be enabled
 
 ![pythonlog_f](screenshots/pythonlog_f.png)
 

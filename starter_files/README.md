@@ -72,7 +72,7 @@ Benchmark the API using Apache Benchmark
 
 ### Step 7 - Create and Publish a Pipeline
 
-Start Pipeline of end to AutoML, building of endpoint and show runDetail Widget in Jupyter notebook
+Start Pipeline which will create an end to end automation of AutoML training and building of endpoint for deployment and consumption
 
 ![pipelinecreated](screenshots/pipelinecreated.png)
 
